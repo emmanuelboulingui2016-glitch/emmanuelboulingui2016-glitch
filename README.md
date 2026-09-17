@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Salut, je suis Emmanuel Boulingui
 
-<!--
-**emmanuelboulingui2016-glitch/emmanuelboulingui2016-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full-Stack & Fondateur de **241 Code Factory**, agence basée à Libreville (Gabon). Je digitalise les entreprises gabonaises : sites web, applications mobiles/desktop, logiciels sur-mesure — pensés pour les réalités locales (FCFA, TVA, Mobile Money).
 
-Here are some ideas to get you started:
+**🛠️ Stack**
+React · Vite · Tailwind · Supabase · Dexie.js (offline-first) · TypeScript · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Projets phares**
+- [FinPilot Afrique](https://github.com/emmanuelboulingui2016-glitch/Emmanuel-BOULINGUI) — distribution & rapprochement
+- [Coach d'études](https://github.com/emmanuelboulingui2016-glitch/coach-etudes-mobile) — consultation mobile hors-ligne
+- [MBI Desk](https://github.com/emmanuelboulingui2016-glitch/mbi-desk-releases) — application de gestion desktop
+- [NzilaBiz](https://github.com/emmanuelboulingui2016-glitch/nzilabiz) — gestion de boutique pour commerçants d'Afrique centrale
+
+**📫 Contact**
+codefactory241@gmail.com · [241codefactory.com](https://241codefactory.com)
